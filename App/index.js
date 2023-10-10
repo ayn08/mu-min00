@@ -24,8 +24,6 @@ const quizLength = quiz.length;
 let quizIndex = 0;
 let score = 0;
 
-//console.log();
-
 const $button = document.getElementsByTagName("button");
 const buttonLength = $button.length;
 //クイズの問題文、選択肢を定義
